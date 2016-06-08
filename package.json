@@ -1,0 +1,24 @@
+{
+  "name": "strip-bytes-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "keywords": [],
+  "description": "strip bytes from a stream according to a predicate",
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/strip-bytes-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/strip-bytes-stream/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/strip-bytes-stream#readme"
+}
